@@ -83,13 +83,13 @@ Below are lecture notes and code examples for the in‐person course, covering i
 
 5. **第五課 – 使用 Teachable Machine 快速訓練貓狗辨識模型 / Lesson 5 – Rapidly Training a Cat vs. Dog Model with Teachable Machine**  
    - 程式碼範例 / Code examples:  
-     `ComVis_offline/ComVis_ch05_teachable_machine.ipynb`  
+     `https://github.com/LBK888/ComVis/blob/main/ComVis_offline/ComVis_ch05_teachable_machine.ipynb`  
    - 已訓練模型下載 / Pretrained model:  
      [teachable_machine_model.zip](https://github.com/LBK888/ComVis/blob/main/ComVis_offline/ComVis_ch05_teachable_machine_model.zip)
 
 6. **第六課 – 深度學習底層架構：TensorFlow 與 PyTorch 的詳細比較 / Lesson 6 – Deep Learning Frameworks: Detailed Comparison of TensorFlow vs. PyTorch**  
    - 程式碼範例 / Code examples:  
-     `ComVis_offline/ComVis_ch06_pytorch_tensorflow.ipynb`
+     `https://github.com/LBK888/ComVis/blob/main/ComVis_offline/ComVis_ch06_pytorch_tensorflow.ipynb`
 
 7. **第七課 – CLIP 模型全面解析：歷史、發展、原理與應用 / Lesson 7 – Comprehensive Analysis of the CLIP Model: History, Evolution, Theory & Applications**  
    - 程式碼範例 / Code examples:  
@@ -101,7 +101,7 @@ Below are lecture notes and code examples for the in‐person course, covering i
 9. **第九課 – 網路爬蟲基礎 / Lesson 9 – Web Scraping Fundamentals**  
    - 內容與程式碼 / Content and code: 待上傳 (To be uploaded)
 
-10. **第十課 – 視覺語言模型綜合應用 – “My 1579 Bus Whereabouts” / Lesson 10 – Integrated Vision‐Language Model Application – “Where Is My 1579 Bus?”**  
+10. **第十課 – 視覺語言模型綜合應用 – 我的1579客運在哪裡 / Lesson 10 – Integrated Vision‐Language Model Application – “Where Is My 1579 Bus?”**  
     - 內容與程式碼 / Content and code: 待上傳 (To be uploaded)
 
 ---
