@@ -17,7 +17,7 @@ Code and explanatory content have been curated by an LLM from online resources a
 ## AI 影像辨識 – 線上課程 開源資料  
 ### AI Image Recognition – Online Course Open Source Materials
 
-以下為線上課程的視頻連結與程式碼範例，包含基礎教學與進階應用。  
+以下為線上課程的教學影片連結與程式碼範例，包含基礎教學與進階應用。  
 Below are video links and code examples for the online course, covering basic tutorials to advanced applications.
 
 1. **第 0 課 – Python 基礎複習範例 / Lesson 0 – Python Basics Review**  
@@ -81,15 +81,15 @@ Below are lecture notes and code examples for the in‐person course, covering i
    - 參考線上教材 / Reference materials:  
      `2.1-Review-Understanding_Convolutions.ipynb`
 
-5. **第五課 – 使用 Teachable Machine 快速訓練貓狗辨識模型 / Lesson 5 – Rapidly Training a Cat vs. Dog Model with Teachable Machine**  
+5. **第五課 – 使用 Teachable Machine 快速訓練貓狗分辨模型 / Lesson 5 – Rapidly Training a Cat vs. Dog Model with Teachable Machine**  
    - 程式碼範例 / Code examples:  
-     `https://github.com/LBK888/ComVis/blob/main/ComVis_offline/ComVis_ch05_teachable_machine.ipynb`  
+     `ComVis_offline/ComVis_ch05_teachable_machine.ipynb`  
    - 已訓練模型下載 / Pretrained model:  
      [teachable_machine_model.zip](https://github.com/LBK888/ComVis/blob/main/ComVis_offline/ComVis_ch05_teachable_machine_model.zip)
 
 6. **第六課 – 深度學習底層架構：TensorFlow 與 PyTorch 的詳細比較 / Lesson 6 – Deep Learning Frameworks: Detailed Comparison of TensorFlow vs. PyTorch**  
    - 程式碼範例 / Code examples:  
-     `https://github.com/LBK888/ComVis/blob/main/ComVis_offline/ComVis_ch06_pytorch_tensorflow.ipynb`
+     `ComVis_offline/ComVis_ch06_pytorch_tensorflow.ipynb`
 
 7. **第七課 – CLIP 模型全面解析：歷史、發展、原理與應用 / Lesson 7 – Comprehensive Analysis of the CLIP Model: History, Evolution, Theory & Applications**  
    - 程式碼範例 / Code examples:  
