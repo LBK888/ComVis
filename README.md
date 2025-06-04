@@ -97,14 +97,15 @@ Below are lecture notes and code examples for the in‐person course, covering i
 
 8. **第八課 – PaliGemma2 VLM 視覺語言模型看菜單：從 HuggingFace 取得模型與進行微調 / Lesson 8 – PaliGemma2 VLM Vision‐Language Model for Menu Recognition: Obtaining & Fine‐Tuning from HuggingFace**  
    - 程式碼範例 / Code examples:  
-     `ComVis_offline/ComVis_ch08_PaliGemma.ipynb`
+     `ComVis_offline/ComVis_ch08_PaliGemma.ipynb`  
 
 9. **第九課 – 網路爬蟲基礎 / Lesson 9 – Web Scraping Fundamentals**  
-   - 程式碼範例 / Code examples:
-     `ComVis_offline/ComVis_ch09_WebScraper.ipynb`
+   - 程式碼範例 / Code examples:  
+     `ComVis_offline/ComVis_ch09_WebScraper.ipynb`  
 
 10. **第十課 – 視覺語言模型綜合應用 – 我的1579客運在哪裡 / Lesson 10 – Integrated Vision‐Language Model Application – “Where Is My 1579 Bus?”**  
-    - 內容與程式碼 / Content and code: 待上傳 (To be uploaded)
+    - 程式碼範例 / Code examples:  
+     `     `  
 
 ---
 
